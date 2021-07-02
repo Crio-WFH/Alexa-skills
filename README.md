@@ -9,6 +9,10 @@
 <a href="https://twitter.com/crio_do"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/crio_do?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@crio_do"></a>
 
 # Introduction
+Alexa is Amazon’s cloud-based voice service which powers the Echo family of devices as well as the companion app on the Android and iOS smartphones.
+
+Referances : 
+- [How to build a custom alexa skill?](https://medium.com/crowdbotics/how-to-build-a-custom-amazon-alexa-skill-step-by-step-my-favorite-chess-player-dcc0edae53fb)
 
 ## Contributors ✨
 
